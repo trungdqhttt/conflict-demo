@@ -1,1 +1,3 @@
 I completed function2
+
+I completed function1
